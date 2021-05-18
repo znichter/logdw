@@ -1,0 +1,9 @@
+{
+	"name": "movelogdatatrn",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7a794368-1384-4725-9ee4-d0fc70097418",
+		"tenantId": "f482d660-63e0-4ae4-bb8a-5f8e79b2b056"
+	}
+}
